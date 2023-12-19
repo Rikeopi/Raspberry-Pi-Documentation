@@ -10,15 +10,15 @@ Mirandilla, Johnlery | Morata, Marri Grace | Nobleza, Uriel Miguel | Pizzaro, Je
 1. Prepare and Install Headless Raspbian OS in Raspberry Pi
    1. Insert a micro SD card that is 8GB or larger into your computer.
 
-   ![img 1](images/img1)
+       ![img 1](images/img1.png)
    
    2. Visit the [official Raspberry Pi website](https://www.raspberrypi.com/software/) then download, install, and run Raspberry Pi Imager.
 
-   ![img 2](images/img2)
+       ![img 2](images/img2.png)
    
    3. Choose which device, OS, and storage you are going to use.
 
-   ![img 3](images/img3)
+      ![img 3](images/img3.png)
 
    Upon clicking **_CHOOSE DEVICE/OS/STORAGE_**, a menu should appear. The picture below is an example.
 
