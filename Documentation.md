@@ -135,6 +135,14 @@
       
 4. Enabling and controlling Rapberry Pi using VNC
    
+   1. Download and install RealVNC Viewer through [here](https://www.realvnc.com/en/connect/download/viewer/).
+      
+      ![img_22](images/img22.png)
+      
+      _(Image credit: CS3B Group 11)_
+
+   2. 
+   
 
 
 (_**NOTE:** Images are not ours since we were able to perform the task before the announcement that there is a need for a documentation. Appropriate credits were noted after each photo. Thank you!_)
