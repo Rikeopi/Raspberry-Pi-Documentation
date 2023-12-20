@@ -4,8 +4,6 @@
 >Mirandilla, Johnlery | Morata, Marri Grace | Nobleza, Uriel Miguel | Pizzaro, Jesrel
 # RASPBERRY PI INSTALLATION GUIDE
 
-
-
 </div>
 
 1. Prepare and Install Headless Raspbian OS in Raspberry Pi
@@ -151,29 +149,33 @@
 
    4. Select **Interface Options**.
 
-      ![img_24](images/img24).png
+      ![img_24](images/img24.png)
 
       _(Image credit: CS3B Group 11)_
 
-   6. Enable the VNC.
+   5. Enable the VNC.
 
-      ![img_25](images/img25).png
-
-      _(Image credit: CS3B Group 11)_
-
-   4.Open the RealVNC Viewer app and type the ip address of your raspberry
-
-      ![img_26](images/img26).png
+      ![img_25](images/img25.png)
 
       _(Image credit: CS3B Group 11)_
 
-   5. Enter the username and the password and click "Ok"
+   6. Open the RealVNC Viewer app and type the ip address of your raspberry
 
-       ![img_27](images/img27).png
+      ![img_26](images/img26.png)
 
-   7. Your Raspberry Pi setup is done!
+      _(Image credit: CS3B Group 11)_
 
-      ![img_28](images/img28).png
+   7. Enter the username and the password and click "Ok"
+
+      ![img_27](images/img27.png)
+      
+      _(Image credit: CS3B Group 11)_
+
+   8. Your Raspberry Pi setup is done!
+
+      ![img_28](images/img28.png)
+
+      _(Image credit: CS3B Group 11)_
    
 
 
