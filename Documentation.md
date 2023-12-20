@@ -92,7 +92,7 @@
       _(Image credit: CS3B Group 11)_
 
 
-4. Deploying LAMP (Linux Apache MySQL PHP) Stack in raspberry Pi
+3. Deploying LAMP (Linux Apache MySQL PHP) Stack in raspberry Pi
    1. In the terminal, enter the following commands:
 
       **_sudo apt install apache2_**
