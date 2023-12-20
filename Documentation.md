@@ -72,7 +72,8 @@
 2. Connecting to Raspberry Pi via SSH using the terminal
 
    1. Open _terminal_ and enter the following commands consecutively:
-      **_ssh <username>@<hostname>_**
+
+      **_ssh \<username\>@\<hostname\>_**
 
       ![img_12](images/img12.png)
 
@@ -93,6 +94,7 @@
 
 4. Deploying LAMP (Linux Apache MySQL PHP) Stack in raspberry Pi
    1. In the terminal, enter the following commands:
+
       **_sudo apt install apache2_**
 
       ![img_15](images/img15.png)
@@ -123,13 +125,13 @@
 
       _(Image credit: CS3B Group 11)_
       
-   2. You will be prompted to choose a web server. Select **apache2** using the spacebar, then press "Tab" to highlight **OK** and press Enter to continue.
+   3. You will be prompted to choose a web server. Select **apache2** using the spacebar, then press "Tab" to highlight **OK** and press Enter to continue.
       
       ![img_20](images/img20.png)
       
       _(Image credit: CS3B Group 11)_
       
-   3. Finally, enter this command on the terminal and wait until the process is complete: **_sudo apt install phpmyadmin_**
+   4. Finally, enter this command on the terminal and wait until the process is complete: **_sudo apt install phpmyadmin_**
 
       ![img_21](images/img21.png)
       
