@@ -143,7 +143,37 @@
       
       _(Image credit: CS3B Group 11)_
 
-   2. 
+   2. After installing, type the following command in the terminal: **_sudo raspi_config_**.
+
+      ![img_23](images/img23.png)
+
+      _(Image credit: CS3B Group 11)_
+
+   4. Select **Interface Options**.
+
+      ![img_24](images/img24).png
+
+      _(Image credit: CS3B Group 11)_
+
+   6. Enable the VNC.
+
+      ![img_25](images/img25).png
+
+      _(Image credit: CS3B Group 11)_
+
+   4.Open the RealVNC Viewer app and type the ip address of your raspberry
+
+      ![img_26](images/img26).png
+
+      _(Image credit: CS3B Group 11)_
+
+   5. Enter the username and the password and click "Ok"
+
+       ![img_27](images/img27).png
+
+   7. Your Raspberry Pi setup is done!
+
+      ![img_28](images/img28).png
    
 
 
