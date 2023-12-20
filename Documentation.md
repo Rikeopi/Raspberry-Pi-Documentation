@@ -179,4 +179,4 @@
    
 
 
-(_**NOTE:** Images are not ours since we were able to perform the task before the announcement that there is a need for a documentation. Appropriate credits were noted after each photo. Thank you!_)
+(_**NOTE:** The images used in this documentation are not our own, as we completed the task before the announcement that documentation was required. Appropriate credits have been given after each photo. Thank you!_)
